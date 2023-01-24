@@ -1,0 +1,31 @@
+---
+title: "500 artists one man, YOU!"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+# Intro 
+Are you tired of struggling with unstable and slow training of your image generation models? Look no further than StableDiffusion!
+
+StableDiffusion is a revolutionary algorithm that allows for efficient and stable training of large-scale generative models, such as GANs and VAEs. With the ability to distribute the computational load across multiple GPUs, training times are significantly reduced and models with larger capacity can be trained. Not only does this lead to faster results, but the quality of the generated images is greatly improved as well.
+
+But don't just take our word for it, try it out for yourself! The great news is that you can easily access StableDiffusion through Google Colab, a free platform for machine learning education and research. With Colab, you have access to powerful GPUs and the ability to easily share and collaborate on your projects.
+
+We know that working with image generation models can be a lot of fun, and with StableDiffusion, the possibilities are endless. Imagine being able to generate high-quality, realistic images of anything you can think of, from portraits of your friends and family to surreal landscapes and abstract designs.
+
+So why not give it a try? With StableDiffusion and Google Colab, you can easily access the tools you need to create stunning images and have a lot of fun while doing it. And the best part is, it's all for free!
+
+Don't waste any more time struggling with unstable and slow training, give StableDiffusion a try today and see the difference for yourself. Happy image generation!
+
+All the code available here: 
+
+# Create your own model and save it into Google drive
+You need to create a hugging face token and need to have around 4GB space on your Google drive. 
+Follow the steps of  the `train_model.ipynb` file. 
+Then load your model with the help of the `generate_pictures.ipynb` file.
+
+You can generate promts with a few line of code. You can find the artist lists and some R code for promt generation. 
+
+<div align='center'> <iframe src="https://www.youtube.com/embed/5GzhMNS-gV0" data-external= "1" > </iframe> <div>
+
