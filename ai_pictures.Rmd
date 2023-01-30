@@ -18,7 +18,7 @@ So why not give it a try? With StableDiffusion and Google Colab, you can easily 
 
 Don't waste any more time struggling with unstable and slow training, give StableDiffusion a try today and see the difference for yourself. Happy image generation!
 
-All the code available here: 
+All the code available here: https://github.com/misrori/ai_pictures
 
 # Create your own model and save it into Google drive
 You need to create a hugging face token and need to have around 4GB space on your Google drive. 
